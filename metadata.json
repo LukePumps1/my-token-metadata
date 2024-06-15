@@ -1,0 +1,30 @@
+{
+  "name": "Test token",
+  "symbol": "TEST",
+  "description": "This is a description of your Solana token.",
+  "image": "https://i.imgur.com/nuFUIq7.png",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": 1000000000
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "4M4aznWaVwfCKjkNExfqFhgtWBwvJaVxwXKRoF6xNuyQ", 
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://i.imgur.com/nuFUIq7.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
